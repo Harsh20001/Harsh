@@ -39,3 +39,5 @@ WebUI.setText(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9
 
 WebUI.click(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/input_ctl00_ContentPlaceHolder1_btnSave'))
 
+WebUI.acceptAlert()
+
