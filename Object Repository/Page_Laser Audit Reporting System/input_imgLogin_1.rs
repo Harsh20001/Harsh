@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_imgLogin</name>
+   <name>input_imgLogin_1</name>
    <tag></tag>
-   <elementGuidId>d42516c5-0cec-403e-9483-fbe5ed094fde</elementGuidId>
+   <elementGuidId>18c61d8f-50b7-491f-aebc-66073e587f85</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>51989b79-fce8-4e86-b5c2-f438bed859ac</webElementGuid>
+      <webElementGuid>434eca67-336e-4e4d-881e-3049c48aa549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>707a089c-63b4-421d-87b9-480fb7510edf</webElementGuid>
+      <webElementGuid>c226fe9c-3b1e-4714-a7df-f170393d9f52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>imgLogin</value>
-      <webElementGuid>bcb0480a-5c4d-4915-8d42-beee396db838</webElementGuid>
+      <webElementGuid>5a01d721-a129-42a8-addf-ff5b990cc390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>imgLogin</value>
-      <webElementGuid>df39af80-eda3-48a9-858d-23e8ff29fd97</webElementGuid>
+      <webElementGuid>282fbe58-6059-4b31-bdc7-0d2d5dd6c1a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>src</name>
       <type>Main</type>
       <value>images/btn_login.jpg</value>
-      <webElementGuid>c497bc82-6bb3-498a-b74a-edab794afd84</webElementGuid>
+      <webElementGuid>7c48ea96-a75e-41ce-9dcd-3578097169d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return Validate();</value>
-      <webElementGuid>373d7ce0-b62c-4b6f-a84f-7c5057393e42</webElementGuid>
+      <webElementGuid>2881db0c-a721-4ee4-8338-288fbca48dea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-a087cc1fd77f9eea4157cd5d2c0736c2</value>
-      <webElementGuid>dbef6b3b-cda7-4a4c-ba63-a0a87c1d0daa</webElementGuid>
+      <webElementGuid>b2415e9f-7e4c-4bbb-8a18-e036875b98fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>a3c3ca22-0d41-4bfc-a3d6-5491987a8bdb</webElementGuid>
+      <webElementGuid>87801c19-1781-400e-ae77-958ef1b6214b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>0eb2554f-cea1-4b72-a3d6-d53693b58936</webElementGuid>
+      <webElementGuid>51d5c60e-7979-49e2-bc49-1f13f93372ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @name = 'imgLogin' and @id = 'imgLogin' and @src = 'images/btn_login.jpg']</value>
-      <webElementGuid>0aad18bd-a9ca-40b1-9c8e-8c5d1eb56e78</webElementGuid>
+      <webElementGuid>d5cb011d-06c0-473d-83ef-9f37d6a4ec0b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

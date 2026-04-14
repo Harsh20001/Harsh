@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username</name>
+   <name>input_ctl00_ContentPlaceHolder1_btnSave</name>
    <tag></tag>
-   <elementGuidId>766a8aa5-c940-4e3c-99e6-d10acee339af</elementGuidId>
+   <elementGuidId>0ee151bd-4b97-4690-bcc5-00dbe223a20a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#empID</value>
+         <value>[name=&quot;ctl00\$ContentPlaceHolder1\$btnSave&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'empID']</value>
+         <value>//*[@name = 'ctl00$ContentPlaceHolder1$btnSave']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:role=button[name=&quot;Save&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,102 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>158749e5-87a3-4666-aa09-e774505f6981</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>7f96815a-1d15-4aed-9451-57ae763dcfab</webElementGuid>
+      <webElementGuid>131b6f0d-bd24-4717-af65-6c11725868b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d7f610ea-bc88-43f6-bb23-5c44608a0313</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>4907a2ff-8f5b-478d-bcb4-5a61192acb6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$ContentPlaceHolder1$btnSave</value>
+      <webElementGuid>7eb519fe-73a4-46a1-b4b7-038cca0e6b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>dc8b8918-18fa-427b-8f5a-921d0359fc4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return ValidateForm();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnSave&quot;, &quot;&quot;, true, &quot;valgrp1&quot;, &quot;&quot;, false, false))</value>
+      <webElementGuid>67e74611-77cf-4f4b-9e4b-78ec3515068e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>c4ac2d17-ef91-42ca-bb5a-33fb981e5d42</webElementGuid>
+      <value>ctl00_ContentPlaceHolder1_btnSave</value>
+      <webElementGuid>78c9ea15-f326-43d3-9235-32fa6e90cc9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>tBox</value>
-      <webElementGuid>ccae1e6e-53ce-445a-b9d6-8d5b6fdcc497</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onfocus</name>
-      <type>Main</type>
-      <value>this.value=''</value>
-      <webElementGuid>b92903df-eee8-4426-94b0-d44dab6bc2fd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>ff5ad2d7-f113-49f8-8ca7-a21ab08f9859</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeypress</name>
-      <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>33f5d194-5c80-4336-a671-daaa773462d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeydown</name>
-      <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>f28f7876-0c73-480d-aca3-0e7d23caa4f3</webElementGuid>
+      <value>button</value>
+      <webElementGuid>280e3fc0-5087-43fc-8304-b7c8d4eb38d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a17ec374332aac18c65f59598e2993eb</value>
-      <webElementGuid>60b96ac3-5eb9-4c6b-81bd-a57106804be5</webElementGuid>
+      <value>md5.v1-eaa7b8b57bfb422c167ae198ad439156</value>
+      <webElementGuid>c595fb53-19da-4abc-b7fb-7cb2445d1e27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>d1b30b68-8ed9-42a3-bad4-66c20e74240f</webElementGuid>
+      <value>//*[@name = 'ctl00$ContentPlaceHolder1$btnSave']</value>
+      <webElementGuid>3fabeffd-bbe7-4c5f-a9d0-d555d3655a3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>bafb9aba-6337-4e57-a40c-dfe269f2e866</webElementGuid>
+      <value>//*[@name = 'ctl00$ContentPlaceHolder1$btnSave']</value>
+      <webElementGuid>74aaafcc-5da4-4818-883e-c4f0f2005c08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'empID' and @type = 'text' and @id = 'empID' and @placeholder = 'Username']</value>
-      <webElementGuid>c6d202e0-3669-45be-abb3-14fa16b4947b</webElementGuid>
+      <value>//input[@type = 'submit' and @name = 'ctl00$ContentPlaceHolder1$btnSave' and @id = 'ctl00_ContentPlaceHolder1_btnSave']</value>
+      <webElementGuid>6c44e388-92eb-4a5b-a835-dc4689faffb5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

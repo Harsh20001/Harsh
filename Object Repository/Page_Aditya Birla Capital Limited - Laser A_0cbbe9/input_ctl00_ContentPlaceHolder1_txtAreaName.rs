@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username</name>
+   <name>input_ctl00_ContentPlaceHolder1_txtAreaName</name>
    <tag></tag>
-   <elementGuidId>766a8aa5-c940-4e3c-99e6-d10acee339af</elementGuidId>
+   <elementGuidId>cb76ef8d-c45a-4cae-89a4-792fec0553e2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#empID</value>
+         <value>[name=&quot;ctl00\$ContentPlaceHolder1\$txtAreaName&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'empID']</value>
+         <value>//*[@name = 'ctl00$ContentPlaceHolder1$txtAreaName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>#ctl00_ContentPlaceHolder1_txtAreaName</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>158749e5-87a3-4666-aa09-e774505f6981</webElementGuid>
+      <webElementGuid>fa83f8ba-7bd5-4e17-9b50-6ba5e9e99629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>7f96815a-1d15-4aed-9451-57ae763dcfab</webElementGuid>
+      <value>ctl00$ContentPlaceHolder1$txtAreaName</value>
+      <webElementGuid>7f4d1e2c-2945-4078-a4de-28cddfa6ef5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,86 +45,70 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d7f610ea-bc88-43f6-bb23-5c44608a0313</webElementGuid>
+      <webElementGuid>f50820c8-136a-4bea-9236-2957a6b73676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>d349ef78-5bb6-4d8e-9e57-6baed48a62f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>c4ac2d17-ef91-42ca-bb5a-33fb981e5d42</webElementGuid>
+      <value>ctl00_ContentPlaceHolder1_txtAreaName</value>
+      <webElementGuid>c294ef42-f9e1-46fa-81b9-234185ff3a40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>tBox</value>
-      <webElementGuid>ccae1e6e-53ce-445a-b9d6-8d5b6fdcc497</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onfocus</name>
-      <type>Main</type>
-      <value>this.value=''</value>
-      <webElementGuid>b92903df-eee8-4426-94b0-d44dab6bc2fd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>ff5ad2d7-f113-49f8-8ca7-a21ab08f9859</webElementGuid>
+      <value>box</value>
+      <webElementGuid>b6c611e2-2bdc-421b-a346-7dd5c403d058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onkeypress</name>
       <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>33f5d194-5c80-4336-a671-daaa773462d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeydown</name>
-      <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>f28f7876-0c73-480d-aca3-0e7d23caa4f3</webElementGuid>
+      <value>return characterWithSpaceAndBracket(event)</value>
+      <webElementGuid>598c9257-b400-4d1a-a8ca-6c172fd674d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a17ec374332aac18c65f59598e2993eb</value>
-      <webElementGuid>60b96ac3-5eb9-4c6b-81bd-a57106804be5</webElementGuid>
+      <value>md5.v1-dc17c149f6ab21269a0b8c98cbf6541c</value>
+      <webElementGuid>c62166a2-c474-4782-bc62-fe5cc242a5f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>d1b30b68-8ed9-42a3-bad4-66c20e74240f</webElementGuid>
+      <value>//*[@name = 'ctl00$ContentPlaceHolder1$txtAreaName']</value>
+      <webElementGuid>5e6fc81e-3e60-4492-9d26-90a3eb417d6b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>bafb9aba-6337-4e57-a40c-dfe269f2e866</webElementGuid>
+      <value>//*[@name = 'ctl00$ContentPlaceHolder1$txtAreaName']</value>
+      <webElementGuid>5c98530b-e881-4bf8-8d35-6bad66981360</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'empID' and @type = 'text' and @id = 'empID' and @placeholder = 'Username']</value>
-      <webElementGuid>c6d202e0-3669-45be-abb3-14fa16b4947b</webElementGuid>
+      <value>//input[@name = 'ctl00$ContentPlaceHolder1$txtAreaName' and @type = 'text' and @id = 'ctl00_ContentPlaceHolder1_txtAreaName']</value>
+      <webElementGuid>d7c5071e-17f3-4634-86fb-9b24154dddde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

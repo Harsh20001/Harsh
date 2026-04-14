@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username</name>
+   <name>input_Password_1</name>
    <tag></tag>
-   <elementGuidId>766a8aa5-c940-4e3c-99e6-d10acee339af</elementGuidId>
+   <elementGuidId>ccca5073-8629-42ba-99d3-f7621807b8ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#empID</value>
+         <value>#txtPwd</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'empID']</value>
+         <value>//*[@id = 'txtPwd']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Password&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>158749e5-87a3-4666-aa09-e774505f6981</webElementGuid>
+      <webElementGuid>4260a9dd-dc5f-4efa-a59f-29e297605819</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>7f96815a-1d15-4aed-9451-57ae763dcfab</webElementGuid>
+      <value>txtPwd</value>
+      <webElementGuid>0530eb05-a6ed-4778-8f06-7b35aea84c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d7f610ea-bc88-43f6-bb23-5c44608a0313</webElementGuid>
+      <value>password</value>
+      <webElementGuid>4b65d655-f8a7-4024-9d64-48cae05ec669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>empID</value>
-      <webElementGuid>c4ac2d17-ef91-42ca-bb5a-33fb981e5d42</webElementGuid>
+      <value>txtPwd</value>
+      <webElementGuid>eba55348-d8d3-4b32-8d11-5e4acff1e7fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tBox</value>
-      <webElementGuid>ccae1e6e-53ce-445a-b9d6-8d5b6fdcc497</webElementGuid>
+      <webElementGuid>6cce79c9-690f-4f39-a4a2-5483685fc8e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,62 +69,46 @@
       <name>onfocus</name>
       <type>Main</type>
       <value>this.value=''</value>
-      <webElementGuid>b92903df-eee8-4426-94b0-d44dab6bc2fd</webElementGuid>
+      <webElementGuid>6f6e3f33-acec-4d13-9754-2553c0b63c73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>ff5ad2d7-f113-49f8-8ca7-a21ab08f9859</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeypress</name>
-      <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>33f5d194-5c80-4336-a671-daaa773462d2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onkeydown</name>
-      <type>Main</type>
-      <value>KeyDownHandler('imgLogin');</value>
-      <webElementGuid>f28f7876-0c73-480d-aca3-0e7d23caa4f3</webElementGuid>
+      <value>Password</value>
+      <webElementGuid>bfa34126-2c4a-4b84-bdc9-3a29c593a536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a17ec374332aac18c65f59598e2993eb</value>
-      <webElementGuid>60b96ac3-5eb9-4c6b-81bd-a57106804be5</webElementGuid>
+      <value>md5.v1-23d3fa5987ae87d8f5752583287421ee</value>
+      <webElementGuid>e8dadc51-fb88-40d0-af08-913ec735e4cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>d1b30b68-8ed9-42a3-bad4-66c20e74240f</webElementGuid>
+      <value>//*[@id = 'txtPwd']</value>
+      <webElementGuid>4db311b5-e088-43f6-94e9-923282a501bb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'empID']</value>
-      <webElementGuid>bafb9aba-6337-4e57-a40c-dfe269f2e866</webElementGuid>
+      <value>//*[@id = 'txtPwd']</value>
+      <webElementGuid>e7a952d9-b860-48ef-a101-949911d29771</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'empID' and @type = 'text' and @id = 'empID' and @placeholder = 'Username']</value>
-      <webElementGuid>c6d202e0-3669-45be-abb3-14fa16b4947b</webElementGuid>
+      <value>//input[@name = 'txtPwd' and @type = 'password' and @id = 'txtPwd' and @placeholder = 'Password']</value>
+      <webElementGuid>b6bc18c8-f9f8-462f-9205-ebe1d1a83dc2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

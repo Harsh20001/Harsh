@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_imgLogin</name>
+   <name>img_Image2p</name>
    <tag></tag>
-   <elementGuidId>d42516c5-0cec-403e-9483-fbe5ed094fde</elementGuidId>
+   <elementGuidId>8dc0e6b4-7870-434d-a098-e4001ee861b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#imgLogin</value>
+         <value>[name=&quot;Image2p&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'imgLogin']</value>
+         <value>//*[@name = 'Image2p']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Submit&quot;i]</value>
+         <value>#Stm0p0i2eTX > table > tbody > tr > td > a</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,79 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>51989b79-fce8-4e86-b5c2-f438bed859ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>image</value>
-      <webElementGuid>707a089c-63b4-421d-87b9-480fb7510edf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>imgLogin</value>
-      <webElementGuid>bcb0480a-5c4d-4915-8d42-beee396db838</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>imgLogin</value>
-      <webElementGuid>df39af80-eda3-48a9-858d-23e8ff29fd97</webElementGuid>
+      <value>img</value>
+      <webElementGuid>5b6593c1-ebd5-4a27-93a4-9ffa5852f195</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>images/btn_login.jpg</value>
-      <webElementGuid>c497bc82-6bb3-498a-b74a-edab794afd84</webElementGuid>
+      <value>images/btn/auditplanning.gif</value>
+      <webElementGuid>67ac2363-4dc1-4962-9f7b-b72840852457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Image2p</value>
+      <webElementGuid>4816292d-3f4a-4c04-a36e-08404da636df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>onclick</name>
+      <name>border</name>
       <type>Main</type>
-      <value>return Validate();</value>
-      <webElementGuid>373d7ce0-b62c-4b6f-a84f-7c5057393e42</webElementGuid>
+      <value>0</value>
+      <webElementGuid>fb150923-d3fd-4d0f-80b0-90b7c53bbc7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-a087cc1fd77f9eea4157cd5d2c0736c2</value>
-      <webElementGuid>dbef6b3b-cda7-4a4c-ba63-a0a87c1d0daa</webElementGuid>
+      <value>md5.v1-b910d87c176d86910d527d460fb65597</value>
+      <webElementGuid>74404455-8fb0-41f1-b46e-14b2d942926b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>a3c3ca22-0d41-4bfc-a3d6-5491987a8bdb</webElementGuid>
+      <value>//*[@name = 'Image2p']</value>
+      <webElementGuid>38428b81-c797-48d7-a96e-fc496a45101e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'imgLogin']</value>
-      <webElementGuid>0eb2554f-cea1-4b72-a3d6-d53693b58936</webElementGuid>
+      <value>//*[@name = 'Image2p']</value>
+      <webElementGuid>24a63e72-cb61-44f3-b30d-d8e18b02f512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'image' and @name = 'imgLogin' and @id = 'imgLogin' and @src = 'images/btn_login.jpg']</value>
-      <webElementGuid>0aad18bd-a9ca-40b1-9c8e-8c5d1eb56e78</webElementGuid>
+      <value>//img[@src = 'images/btn/auditplanning.gif' and @name = 'Image2p']</value>
+      <webElementGuid>4b4a7f96-691d-4a72-b346-7911e3580250</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
