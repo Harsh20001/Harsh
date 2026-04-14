@@ -27,3 +27,15 @@ WebUI.setEncryptedText(findTestObject('Page_Laser Audit Reporting System/input_P
 
 WebUI.click(findTestObject('Page_Laser Audit Reporting System/input_imgLogin'))
 
+WebUI.click(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/img_Image2p'))
+
+WebUI.click(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/img_Image47'))
+
+WebUI.setText(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/input_ctl00_ContentPlaceHolder1_txtAreaName'), 
+    'Test audit')
+
+WebUI.setText(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/input_ctl00_ContentPlaceHolder1_txtAreaName'), 
+    'Test audit 66')
+
+WebUI.click(findTestObject('Page_Aditya Birla Capital Limited - Laser A_0cbbe9/input_ctl00_ContentPlaceHolder1_btnSave'))
+
